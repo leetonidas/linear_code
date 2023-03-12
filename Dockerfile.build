@@ -1,0 +1,6 @@
+from hxp2022:obfuscator as builder
+
+ADD main.c protect.c ptrace.c crc.c linkmap.ll linkmap.h perm.c Makefile /home/user/
+
+RUN sed -i "s|/home/iead/projects/llvm/.local/bin/||g" Makefile && \
+	make -j 8
