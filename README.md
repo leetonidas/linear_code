@@ -2,11 +2,12 @@
 
 Reversing challenge from hxp CTF 2022
 
-|---------|--------------------------------------------------|
-|Category | Reversiong                                       |
-|Estimate | Hard                                             |
-|Solves   |                                                  |
-|Flag     | hxp{BFGQS0C0DUV0EJM1G0I0Z1K0LST1N0P0Z0QR0YZ4WX3} |
+
+|Category     | Reversiong                                           |
+|-------------|------------------------------------------------------|
+|**Estimate** | **Hard**                                             |
+|**Solves**   | **1**                                                |
+|**Flag**     | **hxp{BFGQS0C0DUV0EJM1G0I0Z1K0LST1N0P0Z0QR0YZ4WX3}** |
 
 ## Building
 
